@@ -1,0 +1,1 @@
+module.exports="打包测试";
